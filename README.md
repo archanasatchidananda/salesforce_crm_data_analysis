@@ -14,7 +14,14 @@ To design a **sustainable and scalable analysis system** that helps organization
 - Forecast revenue more accurately
 - Identify high-performing sectors and sources
 
-## Tools & Technologies Used
+## Table of Contents
+- [Tools](#tools)
+- [Dataset Overview](#dataset-overview)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Key Insights & Takeaways](#key-insights-&-takeaways)
+- [Conclusion](#conclusion)
+
+## Tools
  - Excel
  - Tableau
  - Power BI
